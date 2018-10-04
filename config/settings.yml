@@ -1,0 +1,7 @@
+enabled_locales: ["en"]
+static_pages:
+  rails: "http:railstutorial.org"
+  
+layouts:
+  news: "http://railstutorial.org"
+  tests: "google.com"
