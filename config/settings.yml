@@ -1,7 +1,17 @@
 enabled_locales: ["en"]
 static_pages:
-  rails: "http:railstutorial.org"
-  
+  rails_contact: "http://www.railstutorial.org/contact"
+  rails_help: "http://www.railstutorial.org/help"
+  rails_book: "http://www.railstutorial.org/book"
+  rails_tut: "http://www.railstutorial.org/"
+  screencasts: "http://screencasts.railstutorial.org/"
+  github: "http://github.com/"
+
 layouts:
-  news: "http://railstutorial.org"
-  tests: "google.com"
+  rails_tut: "http://www.railstutorial.org/"
+  news: "http://news.railstutorial.org/"
+  michael: "http://www.michaelhartl.com/"
+users:
+  max_name: 50
+  max_email: 255
+  min_pass: 6
