@@ -52,7 +52,16 @@ en:
       create: "Create my account"
     create:
       welcome: "Welcome to the Sample App!"
-  shared:
-    error_messages:
-      form_contains: "The form contains "
-      error: "error"
+    shared:
+      error_messages:
+        form_contains: "The form contains "
+        error: "error"
+  sessions:
+    new:
+      log_in: "Log in"
+      login: "Log in"
+      new: "New user?"
+      sign_up: "Sign up now!!"
+      remember: "Remember me on this computer"
+    create:
+      invalidemail_passcom: "Invalid email/password combination"
